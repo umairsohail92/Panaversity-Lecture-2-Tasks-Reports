@@ -1,0 +1,162 @@
+👤 Student Information
+Name: Umair Sohail
+ Course: AI-101 — AI-Driven Development, Claude Code, and OpenClaw Fundamentals
+ Submission Type: Combined Lab Report (Task 1 + Task 2 + Task 3)
+
+📑 Table of Contents
+Task 1 – AI Prompting in 2026
+Task 2 – AI Generated Snake / Worms Zone Game Development Journey
+Task 3 – Lecture Slide Generation Using LLMs
+Overall Learning Outcomes
+Final Conclusion
+
+🧠 Task 1 – AI Prompting in 2026
+📌 Objective
+The objective of this lab was to understand modern AI prompting techniques and how different prompt structures affect AI-generated outputs.
+
+📚 Summary of Learning
+This lab demonstrated that prompting is not just asking questions, but designing structured instructions for AI systems.
+Key concepts learned:
+Clear instructions improve output quality
+Context improves relevance
+Role-based prompting enhances specialization
+Structured outputs improve usability
+Iterative refinement improves results
+
+⚠️ Challenges Faced
+Receiving generic responses from vague prompts
+Inconsistent formatting in outputs
+Overly long or irrelevant responses
+Difficulty in refining prompts initially
+
+💡 Key Takeaway
+Better prompts lead to better AI results. Prompt engineering is an essential skill for working effectively with AI systems.
+
+🎮 Task 2 – AI Generated Snake / Worms Zone Game Development
+📌 Objective
+To design, develop, debug, and deploy a browser-based Snake / Worms Zone-style game using AI tools.
+
+🧠 Tools Used
+ChatGPT
+Google AI Studio
+GitHub Pages
+GitHub Actions
+
+🎮 Development Journey
+Step 1 – Basic Snake Game (ChatGPT)
+Created simple grid-based Snake game
+Basic movement system
+Simple scoring system
+Minimal UI design
+
+Step 2 – Intermediate Version (Google AI Studio)
+Improved gameplay logic
+Better UI design
+Successfully deployed using GitHub Pages
+🔗 Live Project:
+ https://umairsohail92.github.io/AI-101-TASK2-SNAKE-GAME/
+
+Step 3 – Worms Zone Inspired Game
+Developed an advanced version inspired by Worms Zone .io game mechanics.
+🔗 Final Game Link:
+ https://umairsohail92.github.io/A1-101-task-1-snake-advancegame/
+
+Step 4 – Debugging Phase
+Issues faced:
+Snake movement errors
+Cursor control problems
+Game instability
+These were fixed using iterative AI-assisted debugging.
+
+Step 5 – Deployment
+Final deployment achieved using:
+GitHub Pages
+GitHub Actions
+Correct repository configuration
+✔ Final game successfully published online
+
+⚠️ Challenges Faced
+Understanding AI-generated code structure
+Fixing JavaScript logic errors
+Debugging movement and controls
+Learning GitHub deployment process
+Managing iterative improvements
+
+💡 Key Learnings
+AI-assisted development workflow
+JavaScript game logic fundamentals
+Debugging AI-generated code
+GitHub deployment and hosting
+Iterative development process
+
+🎯 Final Outcome
+Successfully built multiple game versions
+Upgraded Snake game into Worms Zone-style game
+Learned debugging and deployment workflows
+Deployed a fully working browser game
+
+📊 Task 3 – Lecture Slide Generation Using LLMs
+📌 Objective
+To use a Large Language Model (NotebookLM) to analyze a lecture and generate presentation slides automatically.
+
+🧠 Tools Used
+NotebookLM (Google)
+AI-101 Orientation Lecture (YouTube)
+Slide Deck Generation Feature
+
+⚙️ Process Followed
+Step 1 – Lecture Input
+The AI-101 orientation lecture was added into NotebookLM.
+Step 2 – Content Analysis
+NotebookLM analyzed the lecture transcript and extracted key concepts.
+Step 3 – Slide Generation
+The built-in Slide Deck feature automatically generated a structured presentation.
+Step 4 – Review Process
+Slides were reviewed to ensure:
+Correct coverage of topics
+Logical structure
+Relevance to lecture content
+
+❌ Prompts Used
+No custom prompts were used.
+NotebookLM’s automatic Slide Deck feature handled the entire generation process.
+
+⚠️ Challenges Faced
+Ensuring correct lecture import
+Verifying accuracy of generated slides
+Organizing final output for submission
+
+💡 Key Learnings
+LLMs can automatically convert lectures into presentations
+AI reduces manual effort in documentation
+Human review is still important for accuracy
+NotebookLM is effective for academic content transformation
+
+🎯 Final Outcome
+Successfully generated lecture slides using LLM
+No manual prompting required
+Learned AI-based content transformation workflow
+
+📈 Overall Learning Outcomes
+Through all three tasks, I learned:
+🧠 AI Skills
+Prompt engineering fundamentals
+AI-assisted development workflow
+Content generation using LLMs
+🛠 Technical Skills
+JavaScript game development
+Debugging AI-generated code
+GitHub Pages deployment
+🚀 Productivity Skills
+Automating presentation creation
+Converting lectures into structured slides
+Using AI for rapid prototyping
+
+🏁 Final Conclusion
+This complete lab experience demonstrated that AI is not just a tool for generating content but a powerful development assistant.
+Across all tasks, I learned how to:
+Work with AI tools effectively
+Debug and improve AI-generated outputs
+Deploy real-world applications
+Transform educational content into structured outputs
+Overall, this course significantly improved my understanding of AI-driven development and strengthened my practical skills in using modern AI systems for real-world problem solving.
